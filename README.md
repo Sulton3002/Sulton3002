@@ -7,7 +7,7 @@
 
 | No | Minggu ke | Praktikum ke | Topik                                      | Modul    | Laporan Praktikum | Repository  |
 |----|-----------|--------------|--------------------------------------------|----------|-------------------|-------------|
-| 1  | 1         | 1            | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit) | [Laporan Praktikum 1](#) | [Source Code](#) |
+| 1  | 1         | 1            | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit) | [Laporan Praktikum 1](https://drive.google.com/file/d/1l9mnaTL_x_3qP2XUDVIjJTGVkMX-yucY/view?usp=drive_link) | [Source Code](#) |
 | 2  | 1         | 1            | Widget Row dan Column                      | [Modul 02](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit?rtpof=true&sd=true) | [Laporan Praktikum 2](#) | [Source Code](#) |
 | 3  | 2         | 2            | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://drive.google.com/file/d/1gIgl7aoclgOV_NzmygZbeMh5IfxyfyRP/view) | [Laporan Praktikum 3](#) | [Source Code](#) |
 | 4  | 2         | 2            | Widget Flexible dan Expanded               | [Modul 04](https://drive.google.com/file/u/1/d/1mtCScd_vPk-hPPJ-4FVrpd8PFaecZS2z/view?usp=sharing) | [Laporan Praktikum 4](#) | [Source Code](#) |
