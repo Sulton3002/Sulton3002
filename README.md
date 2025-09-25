@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Hi 👋, I'm Dicky Aditya. 
+#### Hi 👋, I'm Sulton Abdul Aziz. 
 ##### Saya Mahasiswa Teknik Informatika.
 
 💻Saat ini saya sedang belajar pemrograman mobile:
